@@ -1,1 +1,1 @@
-Reads Base64 encoded PKCS7 certificate data and writes .spc files. Originally created as a workaround for obtaining certificates from thawte.com. See http://codingexpedition.wordpress.com for more information. 
+Reads Base64 encoded PKCS7 certificate data and writes .spc files. Originally created as a workaround for obtaining certificates from thawte.com. See http://codingexpedition.wordpress.com/2011/04/21/thawte-code-signing-pfx/ for more information. 
